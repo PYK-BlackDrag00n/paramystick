@@ -1,2 +1,2 @@
 # paramystick
-Contenu de certain serveur paramystick
+Contenu de certains serveur paramystick
